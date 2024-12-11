@@ -1,0 +1,7 @@
+# Visual Studio 관련 파일
+.vs/
+*.vcxproj.user
+*.opendb
+*.VC.db
+Debug/
+Release/
